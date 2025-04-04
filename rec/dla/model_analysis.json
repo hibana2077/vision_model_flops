@@ -1,0 +1,98 @@
+[
+  {
+    "model_name": "dla34",
+    "total_params": 15229104,
+    "total_flops": 6159255552,
+    "total_macs": 3079627776,
+    "gflops": 6.159255552,
+    "gmacs": 3.079627776
+  },
+  {
+    "model_name": "dla46_c",
+    "total_params": 1044400,
+    "total_flops": 1184028672,
+    "total_macs": 592014336,
+    "gflops": 1.184028672,
+    "gmacs": 0.592014336
+  },
+  {
+    "model_name": "dla46x_c",
+    "total_params": 811440,
+    "total_flops": 1110219776,
+    "total_macs": 555109888,
+    "gflops": 1.110219776,
+    "gmacs": 0.555109888
+  },
+  {
+    "model_name": "dla60",
+    "total_params": 21011632,
+    "total_flops": 8551096320,
+    "total_macs": 4275548160,
+    "gflops": 8.55109632,
+    "gmacs": 4.27554816
+  },
+  {
+    "model_name": "dla60_res2net",
+    "total_params": 19823072,
+    "total_flops": 8342467648,
+    "total_macs": 4171233824,
+    "gflops": 8.342467648,
+    "gmacs": 4.171233824
+  },
+  {
+    "model_name": "dla60_res2next",
+    "total_params": 16007984,
+    "total_flops": 7021305344,
+    "total_macs": 3510652672,
+    "gflops": 7.021305344,
+    "gmacs": 3.510652672
+  },
+  {
+    "model_name": "dla60x",
+    "total_params": 16327344,
+    "total_flops": 7141552128,
+    "total_macs": 3570776064,
+    "gflops": 7.141552128,
+    "gmacs": 3.570776064
+  },
+  {
+    "model_name": "dla60x_c",
+    "total_params": 1062832,
+    "total_flops": 1210170368,
+    "total_macs": 605085184,
+    "gflops": 1.210170368,
+    "gmacs": 0.605085184
+  },
+  {
+    "model_name": "dla102",
+    "total_params": 32243888,
+    "total_flops": 14440554496,
+    "total_macs": 7220277248,
+    "gflops": 14.440554496,
+    "gmacs": 7.220277248
+  },
+  {
+    "model_name": "dla102x",
+    "total_params": 25284272,
+    "total_flops": 11849265152,
+    "total_macs": 5924632576,
+    "gflops": 11.849265152,
+    "gmacs": 5.924632576
+  },
+  {
+    "model_name": "dla102x2",
+    "total_params": 40257200,
+    "total_flops": 18805264384,
+    "total_macs": 9402632192,
+    "gflops": 18.805264384,
+    "gmacs": 9.402632192
+  },
+  {
+    "model_name": "dla169",
+    "total_params": 52364720,
+    "total_flops": 23274741760,
+    "total_macs": 11637370880,
+    "gflops": 23.27474176,
+    "gmacs": 11.63737088
+  }
+]
