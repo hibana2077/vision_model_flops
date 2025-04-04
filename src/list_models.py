@@ -1,5 +1,5 @@
 import timm
 
 print(timm.list_models(
-    filter="coat_lite*",
+    filter="inception*",
     pretrained=False))

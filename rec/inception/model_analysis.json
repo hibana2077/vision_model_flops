@@ -1,0 +1,58 @@
+[
+  {
+    "model_name": "inception_next_atto",
+    "total_params": 3193680,
+    "total_flops": 1011716160,
+    "total_macs": 505858080,
+    "gflops": 1.01171616,
+    "gmacs": 0.50585808
+  },
+  {
+    "model_name": "inception_next_base",
+    "total_params": 83581088,
+    "total_flops": 29722288896,
+    "total_macs": 14861144448,
+    "gflops": 29.722288896,
+    "gmacs": 14.861144448
+  },
+  {
+    "model_name": "inception_next_small",
+    "total_params": 47055480,
+    "total_flops": 16741472832,
+    "total_macs": 8370736416,
+    "gflops": 16.741472832,
+    "gmacs": 8.370736416
+  },
+  {
+    "model_name": "inception_next_tiny",
+    "total_params": 25744056,
+    "total_flops": 8396539200,
+    "total_macs": 4198269600,
+    "gflops": 8.3965392,
+    "gmacs": 4.1982696
+  },
+  {
+    "model_name": "inception_resnet_v2",
+    "total_params": 54245920,
+    "total_flops": 12935170112,
+    "total_macs": 6467585056,
+    "gflops": 12.935170112,
+    "gmacs": 6.467585056
+  },
+  {
+    "model_name": "inception_v3",
+    "total_params": 21751136,
+    "total_flops": 5671852736,
+    "total_macs": 2835926368,
+    "gflops": 5.671852736,
+    "gmacs": 2.835926368
+  },
+  {
+    "model_name": "inception_v4",
+    "total_params": 41079648,
+    "total_flops": 12245012160,
+    "total_macs": 6122506080,
+    "gflops": 12.24501216,
+    "gmacs": 6.12250608
+  }
+]

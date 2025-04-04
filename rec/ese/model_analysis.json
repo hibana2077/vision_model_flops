@@ -1,0 +1,58 @@
+[
+  {
+    "model_name": "ese_vovnet19b_dw",
+    "total_params": 5506944,
+    "total_flops": 2665034048,
+    "total_macs": 1332517024,
+    "gflops": 2.665034048,
+    "gmacs": 1.332517024
+  },
+  {
+    "model_name": "ese_vovnet19b_slim",
+    "total_params": 2647984,
+    "total_flops": 3359456768,
+    "total_macs": 1679728384,
+    "gflops": 3.359456768,
+    "gmacs": 1.679728384
+  },
+  {
+    "model_name": "ese_vovnet19b_slim_dw",
+    "total_params": 1379152,
+    "total_flops": 795169952,
+    "total_macs": 397584976,
+    "gflops": 0.795169952,
+    "gmacs": 0.397584976
+  },
+  {
+    "model_name": "ese_vovnet39b",
+    "total_params": 23523520,
+    "total_flops": 14146441216,
+    "total_macs": 7073220608,
+    "gflops": 14.146441216,
+    "gmacs": 7.073220608
+  },
+  {
+    "model_name": "ese_vovnet39b_evos",
+    "total_params": 23523520,
+    "total_flops": 14146441216,
+    "total_macs": 7073220608,
+    "gflops": 14.146441216,
+    "gmacs": 7.073220608
+  },
+  {
+    "model_name": "ese_vovnet57b",
+    "total_params": 37552320,
+    "total_flops": 17862275072,
+    "total_macs": 8931137536,
+    "gflops": 17.862275072,
+    "gmacs": 8.931137536
+  },
+  {
+    "model_name": "ese_vovnet99b",
+    "total_params": 62120128,
+    "total_flops": 32974483456,
+    "total_macs": 16487241728,
+    "gflops": 32.974483456,
+    "gmacs": 16.487241728
+  }
+]

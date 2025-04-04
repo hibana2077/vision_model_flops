@@ -1,1 +1,1 @@
-models: ['coat_lite_medium', 'coat_lite_mini', 'coat_lite_small', 'coat_lite_tiny']
+models: ['inception_next_atto', 'inception_next_base', 'inception_next_small', 'inception_next_tiny', 'inception_resnet_v2', 'inception_v3', 'inception_v4']

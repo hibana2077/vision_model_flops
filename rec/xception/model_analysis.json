@@ -1,0 +1,42 @@
+[
+  {
+    "model_name": "xception41",
+    "total_params": 24916096,
+    "total_flops": 10107786816,
+    "total_macs": 5053893408,
+    "gflops": 10.107786816,
+    "gmacs": 5.053893408
+  },
+  {
+    "model_name": "xception41p",
+    "total_params": 24805248,
+    "total_flops": 9948891968,
+    "total_macs": 4974445984,
+    "gflops": 9.948891968,
+    "gmacs": 4.974445984
+  },
+  {
+    "model_name": "xception65",
+    "total_params": 37862848,
+    "total_flops": 15210309696,
+    "total_macs": 7605154848,
+    "gflops": 15.210309696,
+    "gmacs": 7.605154848
+  },
+  {
+    "model_name": "xception65p",
+    "total_params": 37682112,
+    "total_flops": 14996622656,
+    "total_macs": 7498311328,
+    "gflops": 14.996622656,
+    "gmacs": 7.498311328
+  },
+  {
+    "model_name": "xception71",
+    "total_params": 40283304,
+    "total_flops": 19760407360,
+    "total_macs": 9880203680,
+    "gflops": 19.76040736,
+    "gmacs": 9.88020368
+  }
+]
