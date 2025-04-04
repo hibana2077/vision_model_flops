@@ -1,0 +1,98 @@
+[
+  {
+    "model_name": "focalnet_base_lrf",
+    "total_params": 87670752,
+    "total_flops": 30791507968,
+    "total_macs": 15395753984,
+    "gflops": 30.791507968,
+    "gmacs": 15.395753984
+  },
+  {
+    "model_name": "focalnet_base_srf",
+    "total_params": 87069128,
+    "total_flops": 30480416768,
+    "total_macs": 15240208384,
+    "gflops": 30.480416768,
+    "gmacs": 15.240208384
+  },
+  {
+    "model_name": "focalnet_huge_fl3",
+    "total_params": 683466528,
+    "total_flops": 236116846592,
+    "total_macs": 118058423296,
+    "gflops": 236.116846592,
+    "gmacs": 118.058423296
+  },
+  {
+    "model_name": "focalnet_huge_fl4",
+    "total_params": 686179768,
+    "total_flops": 237519867904,
+    "total_macs": 118759933952,
+    "gflops": 237.519867904,
+    "gmacs": 118.759933952
+  },
+  {
+    "model_name": "focalnet_large_fl3",
+    "total_params": 205446624,
+    "total_flops": 71371198464,
+    "total_macs": 35685599232,
+    "gflops": 71.371198464,
+    "gmacs": 35.685599232
+  },
+  {
+    "model_name": "focalnet_large_fl4",
+    "total_params": 205627128,
+    "total_flops": 71464525824,
+    "total_macs": 35732262912,
+    "gflops": 71.464525824,
+    "gmacs": 35.732262912
+  },
+  {
+    "model_name": "focalnet_small_lrf",
+    "total_params": 49532928,
+    "total_flops": 17428961280,
+    "total_macs": 8714480640,
+    "gflops": 17.42896128,
+    "gmacs": 8.71448064
+  },
+  {
+    "model_name": "focalnet_small_srf",
+    "total_params": 49081704,
+    "total_flops": 17195642880,
+    "total_macs": 8597821440,
+    "gflops": 17.19564288,
+    "gmacs": 8.59782144
+  },
+  {
+    "model_name": "focalnet_tiny_lrf",
+    "total_params": 27856848,
+    "total_flops": 8948213760,
+    "total_macs": 4474106880,
+    "gflops": 8.94821376,
+    "gmacs": 4.47410688
+  },
+  {
+    "model_name": "focalnet_tiny_srf",
+    "total_params": 27636036,
+    "total_flops": 8805212160,
+    "total_macs": 4402606080,
+    "gflops": 8.80521216,
+    "gmacs": 4.40260608
+  },
+  {
+    "model_name": "focalnet_xlarge_fl3",
+    "total_params": 363876960,
+    "total_flops": 126143873024,
+    "total_macs": 63071936512,
+    "gflops": 126.143873024,
+    "gmacs": 63.071936512
+  },
+  {
+    "model_name": "focalnet_xlarge_fl4",
+    "total_params": 364117624,
+    "total_flops": 126268309504,
+    "total_macs": 63134154752,
+    "gflops": 126.268309504,
+    "gmacs": 63.134154752
+  }
+]
