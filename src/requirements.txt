@@ -1,4 +1,2 @@
 timm
-thop
 fvcore
-ptflops
