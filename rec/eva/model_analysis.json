@@ -1,0 +1,74 @@
+[
+  {
+    "model_name": "eva02_base_patch14_224",
+    "total_params": 85473024,
+    "total_flops": 43887624192,
+    "total_macs": 21943812096,
+    "gflops": 43.887624192,
+    "gmacs": 21.943812096
+  },
+  {
+    "model_name": "eva02_base_patch16_clip_224",
+    "total_params": 85611264,
+    "total_flops": 33695465472,
+    "total_macs": 16847732736,
+    "gflops": 33.695465472,
+    "gmacs": 16.847732736
+  },
+  {
+    "model_name": "eva02_enormous_patch14_clip_224",
+    "total_params": 3731004160,
+    "total_flops": 1917109927936,
+    "total_macs": 958554963968,
+    "gflops": 1917.109927936,
+    "gmacs": 958.554963968
+  },
+  {
+    "model_name": "eva02_large_patch14_224",
+    "total_params": 302773216,
+    "total_flops": 155505819648,
+    "total_macs": 77752909824,
+    "gflops": 155.505819648,
+    "gmacs": 77.752909824
+  },
+  {
+    "model_name": "eva02_large_patch14_clip_224",
+    "total_params": 302773216,
+    "total_flops": 155505819648,
+    "total_macs": 77752909824,
+    "gflops": 155.505819648,
+    "gmacs": 77.752909824
+  },
+  {
+    "model_name": "eva02_small_patch14_224",
+    "total_params": 16185216,
+    "total_flops": 8301182976,
+    "total_macs": 4150591488,
+    "gflops": 8.301182976,
+    "gmacs": 4.150591488
+  },
+  {
+    "model_name": "eva02_tiny_patch14_224",
+    "total_params": 4111296,
+    "total_flops": 2104197120,
+    "total_macs": 1052098560,
+    "gflops": 2.10419712,
+    "gmacs": 1.05209856
+  },
+  {
+    "model_name": "eva_giant_patch14_224",
+    "total_params": 772546432,
+    "total_flops": 396902268928,
+    "total_macs": 198451134464,
+    "gflops": 396.902268928,
+    "gmacs": 198.451134464
+  },
+  {
+    "model_name": "eva_giant_patch14_clip_224",
+    "total_params": 772546432,
+    "total_flops": 396902268928,
+    "total_macs": 198451134464,
+    "gflops": 396.902268928,
+    "gmacs": 198.451134464
+  }
+]

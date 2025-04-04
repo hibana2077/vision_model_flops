@@ -1,5 +1,5 @@
 import timm
 
 print(timm.list_models(
-    filter="convnext*",
+    filter="eva*224",
     pretrained=False))
