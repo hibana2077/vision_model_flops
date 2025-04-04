@@ -1,0 +1,18 @@
+[
+  {
+    "model_name": "vovnet39a",
+    "total_params": 21554880,
+    "total_flops": 14142509056,
+    "total_macs": 7071254528,
+    "gflops": 14.142509056,
+    "gmacs": 7.071254528
+  },
+  {
+    "model_name": "vovnet57a",
+    "total_params": 35583680,
+    "total_flops": 17858342912,
+    "total_macs": 8929171456,
+    "gflops": 17.858342912,
+    "gmacs": 8.929171456
+  }
+]

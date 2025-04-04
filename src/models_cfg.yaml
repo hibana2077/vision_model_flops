@@ -1,1 +1,1 @@
-models: ['densenet121', 'densenet161', 'densenet169', 'densenet201', 'densenet264d', 'densenetblur121d']
+models: ['vovnet39a', 'vovnet57a']
