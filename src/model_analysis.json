@@ -1,0 +1,42 @@
+[
+  {
+    "model_name": "volo_d1_224",
+    "total_params": 25786392,
+    "total_flops": 12882981888,
+    "total_macs": 6441490944,
+    "gflops": 12.882981888,
+    "gmacs": 6.441490944
+  },
+  {
+    "model_name": "volo_d2_224",
+    "total_params": 57551472,
+    "total_flops": 27013824512,
+    "total_macs": 13506912256,
+    "gflops": 27.013824512,
+    "gmacs": 13.506912256
+  },
+  {
+    "model_name": "volo_d3_224",
+    "total_params": 85198208,
+    "total_flops": 39086772224,
+    "total_macs": 19543386112,
+    "gflops": 39.086772224,
+    "gmacs": 19.543386112
+  },
+  {
+    "model_name": "volo_d4_224",
+    "total_params": 191272224,
+    "total_flops": 84950317056,
+    "total_macs": 42475158528,
+    "gflops": 84.950317056,
+    "gmacs": 42.475158528
+  },
+  {
+    "model_name": "volo_d5_224",
+    "total_params": 293766288,
+    "total_flops": 140092237824,
+    "total_macs": 70046118912,
+    "gflops": 140.092237824,
+    "gmacs": 70.046118912
+  }
+]

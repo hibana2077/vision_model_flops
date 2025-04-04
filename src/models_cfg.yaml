@@ -1,1 +1,1 @@
-models: ['caformer_b36', 'caformer_m36', 'caformer_s18', 'caformer_s36']
+models: ['volo_d1_224', 'volo_d2_224', 'volo_d3_224', 'volo_d4_224', 'volo_d5_224']
