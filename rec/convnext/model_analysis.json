@@ -1,0 +1,226 @@
+[
+  {
+    "model_name": "convnext_atto",
+    "total_params": 3367720,
+    "total_flops": 1094056960,
+    "total_macs": 547028480,
+    "gflops": 1.09405696,
+    "gmacs": 0.54702848
+  },
+  {
+    "model_name": "convnext_atto_ols",
+    "total_params": 3375112,
+    "total_flops": 1152461824,
+    "total_macs": 576230912,
+    "gflops": 1.152461824,
+    "gmacs": 0.576230912
+  },
+  {
+    "model_name": "convnext_atto_rms",
+    "total_params": 3367720,
+    "total_flops": 1094056960,
+    "total_macs": 547028480,
+    "gflops": 1.09405696,
+    "gmacs": 0.54702848
+  },
+  {
+    "model_name": "convnext_base",
+    "total_params": 87508224,
+    "total_flops": 30707513344,
+    "total_macs": 15353756672,
+    "gflops": 30.707513344,
+    "gmacs": 15.353756672
+  },
+  {
+    "model_name": "convnext_femto",
+    "total_params": 4824624,
+    "total_flops": 1558530048,
+    "total_macs": 779265024,
+    "gflops": 1.558530048,
+    "gmacs": 0.779265024
+  },
+  {
+    "model_name": "convnext_femto_ols",
+    "total_params": 4833360,
+    "total_flops": 1625364480,
+    "total_macs": 812682240,
+    "gflops": 1.62536448,
+    "gmacs": 0.81268224
+  },
+  {
+    "model_name": "convnext_large",
+    "total_params": 196142976,
+    "total_flops": 68719948800,
+    "total_macs": 34359974400,
+    "gflops": 68.7199488,
+    "gmacs": 34.3599744
+  },
+  {
+    "model_name": "convnext_large_mlp",
+    "total_params": 198503808,
+    "total_flops": 68724667392,
+    "total_macs": 34362333696,
+    "gflops": 68.724667392,
+    "gmacs": 34.362333696
+  },
+  {
+    "model_name": "convnext_nano",
+    "total_params": 14937040,
+    "total_flops": 4889840640,
+    "total_macs": 2444920320,
+    "gflops": 4.88984064,
+    "gmacs": 2.44492032
+  },
+  {
+    "model_name": "convnext_nano_ols",
+    "total_params": 14993040,
+    "total_flops": 5281213440,
+    "total_macs": 2640606720,
+    "gflops": 5.28121344,
+    "gmacs": 2.64060672
+  },
+  {
+    "model_name": "convnext_pico",
+    "total_params": 8521792,
+    "total_flops": 2733137920,
+    "total_macs": 1366568960,
+    "gflops": 2.73313792,
+    "gmacs": 1.36656896
+  },
+  {
+    "model_name": "convnext_pico_ols",
+    "total_params": 8538048,
+    "total_flops": 2851151872,
+    "total_macs": 1425575936,
+    "gflops": 2.851151872,
+    "gmacs": 1.425575936
+  },
+  {
+    "model_name": "convnext_small",
+    "total_params": 49411008,
+    "total_flops": 17365965312,
+    "total_macs": 8682982656,
+    "gflops": 17.365965312,
+    "gmacs": 8.682982656
+  },
+  {
+    "model_name": "convnext_tiny",
+    "total_params": 27797184,
+    "total_flops": 8909603328,
+    "total_macs": 4454801664,
+    "gflops": 8.909603328,
+    "gmacs": 4.454801664
+  },
+  {
+    "model_name": "convnext_tiny_hnf",
+    "total_params": 27797184,
+    "total_flops": 8909603328,
+    "total_macs": 4454801664,
+    "gflops": 8.909603328,
+    "gmacs": 4.454801664
+  },
+  {
+    "model_name": "convnext_xlarge",
+    "total_params": 348031488,
+    "total_flops": 121838170112,
+    "total_macs": 60919085056,
+    "gflops": 121.838170112,
+    "gmacs": 60.919085056
+  },
+  {
+    "model_name": "convnext_xxlarge",
+    "total_params": 843207168,
+    "total_flops": 303134496768,
+    "total_macs": 151567248384,
+    "gflops": 303.134496768,
+    "gmacs": 151.567248384
+  },
+  {
+    "model_name": "convnext_zepto_rms",
+    "total_params": 1895712,
+    "total_flops": 603793408,
+    "total_macs": 301896704,
+    "gflops": 0.603793408,
+    "gmacs": 0.301896704
+  },
+  {
+    "model_name": "convnext_zepto_rms_ols",
+    "total_params": 1904288,
+    "total_flops": 673638400,
+    "total_macs": 336819200,
+    "gflops": 0.6736384,
+    "gmacs": 0.3368192
+  },
+  {
+    "model_name": "convnextv2_atto",
+    "total_params": 3367720,
+    "total_flops": 1094056960,
+    "total_macs": 547028480,
+    "gflops": 1.09405696,
+    "gmacs": 0.54702848
+  },
+  {
+    "model_name": "convnextv2_base",
+    "total_params": 87508224,
+    "total_flops": 30707513344,
+    "total_macs": 15353756672,
+    "gflops": 30.707513344,
+    "gmacs": 15.353756672
+  },
+  {
+    "model_name": "convnextv2_femto",
+    "total_params": 4824624,
+    "total_flops": 1558530048,
+    "total_macs": 779265024,
+    "gflops": 1.558530048,
+    "gmacs": 0.779265024
+  },
+  {
+    "model_name": "convnextv2_huge",
+    "total_params": 656965056,
+    "total_flops": 229838850560,
+    "total_macs": 114919425280,
+    "gflops": 229.83885056,
+    "gmacs": 114.91942528
+  },
+  {
+    "model_name": "convnextv2_large",
+    "total_params": 196142976,
+    "total_flops": 68719948800,
+    "total_macs": 34359974400,
+    "gflops": 68.7199488,
+    "gmacs": 34.3599744
+  },
+  {
+    "model_name": "convnextv2_nano",
+    "total_params": 14937040,
+    "total_flops": 4889840640,
+    "total_macs": 2444920320,
+    "gflops": 4.88984064,
+    "gmacs": 2.44492032
+  },
+  {
+    "model_name": "convnextv2_pico",
+    "total_params": 8521792,
+    "total_flops": 2733137920,
+    "total_macs": 1366568960,
+    "gflops": 2.73313792,
+    "gmacs": 1.36656896
+  },
+  {
+    "model_name": "convnextv2_small",
+    "total_params": 49411008,
+    "total_flops": 17365965312,
+    "total_macs": 8682982656,
+    "gflops": 17.365965312,
+    "gmacs": 8.682982656
+  },
+  {
+    "model_name": "convnextv2_tiny",
+    "total_params": 27797184,
+    "total_flops": 8909603328,
+    "total_macs": 4454801664,
+    "gflops": 8.909603328,
+    "gmacs": 4.454801664
+  }
+]

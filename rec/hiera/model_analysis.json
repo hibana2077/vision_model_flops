@@ -1,0 +1,50 @@
+[
+  {
+    "model_name": "hiera_base_224",
+    "total_params": 50417856,
+    "total_flops": 17602744320,
+    "total_macs": 8801372160,
+    "gflops": 17.60274432,
+    "gmacs": 8.80137216
+  },
+  {
+    "model_name": "hiera_base_plus_224",
+    "total_params": 68605152,
+    "total_flops": 23942080512,
+    "total_macs": 11971040256,
+    "gflops": 23.942080512,
+    "gmacs": 11.971040256
+  },
+  {
+    "model_name": "hiera_huge_224",
+    "total_params": 669732864,
+    "total_flops": 243161726976,
+    "total_macs": 121580863488,
+    "gflops": 243.161726976,
+    "gmacs": 121.580863488
+  },
+  {
+    "model_name": "hiera_large_224",
+    "total_params": 212025600,
+    "total_flops": 76995975168,
+    "total_macs": 38497987584,
+    "gflops": 76.995975168,
+    "gmacs": 38.497987584
+  },
+  {
+    "model_name": "hiera_small_224",
+    "total_params": 33912864,
+    "total_flops": 12053680128,
+    "total_macs": 6026840064,
+    "gflops": 12.053680128,
+    "gmacs": 6.026840064
+  },
+  {
+    "model_name": "hiera_tiny_224",
+    "total_params": 26821152,
+    "total_flops": 9279148032,
+    "total_macs": 4639574016,
+    "gflops": 9.279148032,
+    "gmacs": 4.639574016
+  }
+]

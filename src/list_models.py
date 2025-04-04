@@ -1,5 +1,5 @@
 import timm
 
 print(timm.list_models(
-    filter="focalnet*",
+    filter="convnext*",
     pretrained=False))
