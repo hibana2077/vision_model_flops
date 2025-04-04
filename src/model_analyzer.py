@@ -2,7 +2,8 @@ import yaml
 import json
 import torch
 import timm
-from fvcore.nn import FlopCountAnalysis, flop_count_table
+from thop import profile
+from copy import deepcopy
 from pathlib import Path
 import argparse
 
@@ -22,32 +23,23 @@ def analyze_model(model_name, input_shape=(1, 3, 224, 224)):
         # Create dummy input
         input_tensor = torch.rand(input_shape)
         
-        # Count parameters
-        total_params = sum(p.numel() for p in model.parameters())
+        # Profile the model using thop
+        macs, params = profile(deepcopy(model), inputs=(input_tensor,), verbose=False)
         
-        # Analyze FLOPs
-        flops = FlopCountAnalysis(model, input_tensor)
+        # Calculate FLOPs (approximately 2x MACs)
+        flops = macs * 2
         
-        # Get total FLOPs
-        total_flops = flops.total()
-        
-        # Get FLOPs by operator
-        flops_by_operator = dict(flops.by_operator())
-        
-        # Get FLOPs by module
-        flops_by_module = dict(flops.by_module())
-        
-        # Calculate MACs (Multiply-Accumulate Operations)
-        # MACs are approximately FLOPs/2 for most neural network operations
-        total_macs = total_flops // 2
+        # Convert to billions for easier reading
+        gflops = flops / 1E9
+        gmacs = macs / 1E9
         
         return {
             "model_name": model_name,
-            "total_params": total_params,
-            "total_flops": total_flops,
-            "total_macs": total_macs,
-            "flops_by_operator": flops_by_operator,
-            "flops_by_module": flops_by_module
+            "total_params": int(params),
+            "total_flops": int(flops),
+            "total_macs": int(macs),
+            "gflops": gflops,
+            "gmacs": gmacs
         }
     except Exception as e:
         return {

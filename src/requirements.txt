@@ -1,2 +1,2 @@
 timm
-fvcore
+ultralytics-thop

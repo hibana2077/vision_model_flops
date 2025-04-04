@@ -1,0 +1,42 @@
+[
+  {
+    "model_name": "resnet18",
+    "total_params": 11689512,
+    "total_flops": 3648067584,
+    "total_macs": 1824033792,
+    "gflops": 3.648067584,
+    "gmacs": 1.824033792
+  },
+  {
+    "model_name": "resnet34",
+    "total_params": 21797672,
+    "total_flops": 7357478912,
+    "total_macs": 3678739456,
+    "gflops": 7.357478912,
+    "gmacs": 3.678739456
+  },
+  {
+    "model_name": "resnet50",
+    "total_params": 25557032,
+    "total_flops": 8267485184,
+    "total_macs": 4133742592,
+    "gflops": 8.267485184,
+    "gmacs": 4.133742592
+  },
+  {
+    "model_name": "resnet101",
+    "total_params": 44549160,
+    "total_flops": 15732871168,
+    "total_macs": 7866435584,
+    "gflops": 15.732871168,
+    "gmacs": 7.866435584
+  },
+  {
+    "model_name": "resnet152",
+    "total_params": 60192808,
+    "total_flops": 23207890944,
+    "total_macs": 11603945472,
+    "gflops": 23.207890944,
+    "gmacs": 11.603945472
+  }
+]
