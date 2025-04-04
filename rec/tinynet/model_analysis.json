@@ -1,42 +1,42 @@
 [
   {
     "model_name": "tinynet_a",
-    "total_params": 6135972,
-    "total_flops": 915658432,
-    "total_macs": 457829216,
-    "gflops": 0.915658432,
-    "gmacs": 0.457829216
+    "total_params": 4854972,
+    "total_flops": 913098432,
+    "total_macs": 456549216,
+    "gflops": 0.913098432,
+    "gmacs": 0.456549216
   },
   {
     "model_name": "tinynet_b",
-    "total_params": 3697234,
-    "total_flops": 552460448,
-    "total_macs": 276230224,
-    "gflops": 0.552460448,
-    "gmacs": 0.276230224
+    "total_params": 2416234,
+    "total_flops": 549900448,
+    "total_macs": 274950224,
+    "gflops": 0.549900448,
+    "gmacs": 0.274950224
   },
   {
     "model_name": "tinynet_c",
-    "total_params": 2435682,
-    "total_flops": 279524384,
-    "total_macs": 139762192,
-    "gflops": 0.279524384,
-    "gmacs": 0.139762192
+    "total_params": 1154682,
+    "total_flops": 276964384,
+    "total_macs": 138482192,
+    "gflops": 0.276964384,
+    "gmacs": 0.138482192
   },
   {
     "model_name": "tinynet_d",
-    "total_params": 2320638,
-    "total_flops": 206911904,
-    "total_macs": 103455952,
-    "gflops": 0.206911904,
-    "gmacs": 0.103455952
+    "total_params": 1039638,
+    "total_flops": 204351904,
+    "total_macs": 102175952,
+    "gflops": 0.204351904,
+    "gmacs": 0.102175952
   },
   {
     "model_name": "tinynet_e",
-    "total_params": 2028732,
-    "total_flops": 176980384,
-    "total_macs": 88490192,
-    "gflops": 0.176980384,
-    "gmacs": 0.088490192
+    "total_params": 747732,
+    "total_flops": 174420384,
+    "total_macs": 87210192,
+    "gflops": 0.174420384,
+    "gmacs": 0.087210192
   }
 ]

@@ -1,0 +1,338 @@
+[
+  {
+    "model_name": "efficientnet_b0",
+    "total_params": 5246532,
+    "total_flops": 771757504,
+    "total_macs": 385878752,
+    "gflops": 0.771757504,
+    "gmacs": 0.385878752
+  },
+  {
+    "model_name": "efficientnet_b0_g8_gn",
+    "total_params": 6520644,
+    "total_flops": 1255206400,
+    "total_macs": 627603200,
+    "gflops": 1.2552064,
+    "gmacs": 0.6276032
+  },
+  {
+    "model_name": "efficientnet_b0_g16_evos",
+    "total_params": 8064908,
+    "total_flops": 1996194304,
+    "total_macs": 998097152,
+    "gflops": 1.996194304,
+    "gmacs": 0.998097152
+  },
+  {
+    "model_name": "efficientnet_b0_gn",
+    "total_params": 5246532,
+    "total_flops": 771757504,
+    "total_macs": 385878752,
+    "gflops": 0.771757504,
+    "gmacs": 0.385878752
+  },
+  {
+    "model_name": "efficientnet_b1",
+    "total_params": 7732136,
+    "total_flops": 1139431360,
+    "total_macs": 569715680,
+    "gflops": 1.13943136,
+    "gmacs": 0.56971568
+  },
+  {
+    "model_name": "efficientnet_b1_pruned",
+    "total_params": 4986324,
+    "total_flops": 598882718,
+    "total_macs": 299441359,
+    "gflops": 0.598882718,
+    "gmacs": 0.299441359
+  },
+  {
+    "model_name": "efficientnet_b2",
+    "total_params": 9042426,
+    "total_flops": 1318067680,
+    "total_macs": 659033840,
+    "gflops": 1.31806768,
+    "gmacs": 0.65903384
+  },
+  {
+    "model_name": "efficientnet_b2_pruned",
+    "total_params": 6820903,
+    "total_flops": 894301196,
+    "total_macs": 447150598,
+    "gflops": 0.894301196,
+    "gmacs": 0.447150598
+  },
+  {
+    "model_name": "efficientnet_b3",
+    "total_params": 12145936,
+    "total_flops": 1925570080,
+    "total_macs": 962785040,
+    "gflops": 1.92557008,
+    "gmacs": 0.96278504
+  },
+  {
+    "model_name": "efficientnet_b3_g8_gn",
+    "total_params": 14166152,
+    "total_flops": 2993630976,
+    "total_macs": 1496815488,
+    "gflops": 2.993630976,
+    "gmacs": 1.496815488
+  },
+  {
+    "model_name": "efficientnet_b3_gn",
+    "total_params": 11648504,
+    "total_flops": 1963643136,
+    "total_macs": 981821568,
+    "gflops": 1.963643136,
+    "gmacs": 0.981821568
+  },
+  {
+    "model_name": "efficientnet_b3_pruned",
+    "total_params": 8230795,
+    "total_flops": 1012020574,
+    "total_macs": 506010287,
+    "gflops": 1.012020574,
+    "gmacs": 0.506010287
+  },
+  {
+    "model_name": "efficientnet_b4",
+    "total_params": 19216416,
+    "total_flops": 3007600064,
+    "total_macs": 1503800032,
+    "gflops": 3.007600064,
+    "gmacs": 1.503800032
+  },
+  {
+    "model_name": "efficientnet_b5",
+    "total_params": 30217048,
+    "total_flops": 4713191168,
+    "total_macs": 2356595584,
+    "gflops": 4.713191168,
+    "gmacs": 2.356595584
+  },
+  {
+    "model_name": "efficientnet_b6",
+    "total_params": 42816272,
+    "total_flops": 6720564096,
+    "total_macs": 3360282048,
+    "gflops": 6.720564096,
+    "gmacs": 3.360282048
+  },
+  {
+    "model_name": "efficientnet_b7",
+    "total_params": 66037240,
+    "total_flops": 10339986304,
+    "total_macs": 5169993152,
+    "gflops": 10.339986304,
+    "gmacs": 5.169993152
+  },
+  {
+    "model_name": "efficientnet_b8",
+    "total_params": 87033110,
+    "total_flops": 13944049280,
+    "total_macs": 6972024640,
+    "gflops": 13.94404928,
+    "gmacs": 6.97202464
+  },
+  {
+    "model_name": "efficientnet_blur_b0",
+    "total_params": 5246532,
+    "total_flops": 812428288,
+    "total_macs": 406214144,
+    "gflops": 0.812428288,
+    "gmacs": 0.406214144
+  },
+  {
+    "model_name": "efficientnet_cc_b0_4e",
+    "total_params": 2577700,
+    "total_flops": 358614656,
+    "total_macs": 179307328,
+    "gflops": 0.358614656,
+    "gmacs": 0.179307328
+  },
+  {
+    "model_name": "efficientnet_cc_b0_8e",
+    "total_params": 2582468,
+    "total_flops": 358624128,
+    "total_macs": 179312064,
+    "gflops": 0.358624128,
+    "gmacs": 0.179312064
+  },
+  {
+    "model_name": "efficientnet_cc_b1_8e",
+    "total_params": 3188512,
+    "total_flops": 492425088,
+    "total_macs": 246212544,
+    "gflops": 0.492425088,
+    "gmacs": 0.246212544
+  },
+  {
+    "model_name": "efficientnet_el",
+    "total_params": 10497504,
+    "total_flops": 8708535808,
+    "total_macs": 4354267904,
+    "gflops": 8.708535808,
+    "gmacs": 4.354267904
+  },
+  {
+    "model_name": "efficientnet_el_pruned",
+    "total_params": 10497504,
+    "total_flops": 8708535808,
+    "total_macs": 4354267904,
+    "gflops": 8.708535808,
+    "gmacs": 4.354267904
+  },
+  {
+    "model_name": "efficientnet_em",
+    "total_params": 6831688,
+    "total_flops": 5226674432,
+    "total_macs": 2613337216,
+    "gflops": 5.226674432,
+    "gmacs": 2.613337216
+  },
+  {
+    "model_name": "efficientnet_es",
+    "total_params": 5386952,
+    "total_flops": 3577590016,
+    "total_macs": 1788795008,
+    "gflops": 3.577590016,
+    "gmacs": 1.788795008
+  },
+  {
+    "model_name": "efficientnet_es_pruned",
+    "total_params": 5386952,
+    "total_flops": 3577590016,
+    "total_macs": 1788795008,
+    "gflops": 3.577590016,
+    "gmacs": 1.788795008
+  },
+  {
+    "model_name": "efficientnet_h_b5",
+    "total_params": 45623916,
+    "total_flops": 13104827648,
+    "total_macs": 6552413824,
+    "gflops": 13.104827648,
+    "gmacs": 6.552413824
+  },
+  {
+    "model_name": "efficientnet_l2",
+    "total_params": 479218620,
+    "total_flops": 74769440064,
+    "total_macs": 37384720032,
+    "gflops": 74.769440064,
+    "gmacs": 37.384720032
+  },
+  {
+    "model_name": "efficientnet_lite0",
+    "total_params": 4609992,
+    "total_flops": 770503104,
+    "total_macs": 385251552,
+    "gflops": 0.770503104,
+    "gmacs": 0.385251552
+  },
+  {
+    "model_name": "efficientnet_lite1",
+    "total_params": 5363016,
+    "total_flops": 1005063360,
+    "total_macs": 502531680,
+    "gflops": 1.00506336,
+    "gmacs": 0.50253168
+  },
+  {
+    "model_name": "efficientnet_lite2",
+    "total_params": 6033976,
+    "total_flops": 1153146848,
+    "total_macs": 576573424,
+    "gflops": 1.153146848,
+    "gmacs": 0.576573424
+  },
+  {
+    "model_name": "efficientnet_lite3",
+    "total_params": 8120424,
+    "total_flops": 1704327072,
+    "total_macs": 852163536,
+    "gflops": 1.704327072,
+    "gmacs": 0.852163536
+  },
+  {
+    "model_name": "efficientnet_lite4",
+    "total_params": 12894200,
+    "total_flops": 2695458304,
+    "total_macs": 1347729152,
+    "gflops": 2.695458304,
+    "gmacs": 1.347729152
+  },
+  {
+    "model_name": "efficientnet_x_b3",
+    "total_params": 13187716,
+    "total_flops": 4525212448,
+    "total_macs": 2262606224,
+    "gflops": 4.525212448,
+    "gmacs": 2.262606224
+  },
+  {
+    "model_name": "efficientnet_x_b5",
+    "total_params": 33233614,
+    "total_flops": 11379734528,
+    "total_macs": 5689867264,
+    "gflops": 11.379734528,
+    "gmacs": 5.689867264
+  },
+  {
+    "model_name": "efficientnetv2_l",
+    "total_params": 118002696,
+    "total_flops": 24462505088,
+    "total_macs": 12231252544,
+    "gflops": 24.462505088,
+    "gmacs": 12.231252544
+  },
+  {
+    "model_name": "efficientnetv2_m",
+    "total_params": 53847324,
+    "total_flops": 10724542400,
+    "total_macs": 5362271200,
+    "gflops": 10.7245424,
+    "gmacs": 5.3622712
+  },
+  {
+    "model_name": "efficientnetv2_rw_m",
+    "total_params": 52929210,
+    "total_flops": 12386956736,
+    "total_macs": 6193478368,
+    "gflops": 12.386956736,
+    "gmacs": 6.193478368
+  },
+  {
+    "model_name": "efficientnetv2_rw_s",
+    "total_params": 23780448,
+    "total_flops": 5888039424,
+    "total_macs": 2944019712,
+    "gflops": 5.888039424,
+    "gmacs": 2.944019712
+  },
+  {
+    "model_name": "efficientnetv2_rw_t",
+    "total_params": 13530364,
+    "total_flops": 3825862080,
+    "total_macs": 1912931040,
+    "gflops": 3.82586208,
+    "gmacs": 1.91293104
+  },
+  {
+    "model_name": "efficientnetv2_s",
+    "total_params": 21304616,
+    "total_flops": 5699919744,
+    "total_macs": 2849959872,
+    "gflops": 5.699919744,
+    "gmacs": 2.849959872
+  },
+  {
+    "model_name": "efficientnetv2_xl",
+    "total_params": 207342784,
+    "total_flops": 35803302400,
+    "total_macs": 17901651200,
+    "gflops": 35.8033024,
+    "gmacs": 17.9016512
+  }
+]

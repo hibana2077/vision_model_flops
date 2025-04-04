@@ -17,7 +17,7 @@ def analyze_model(model_name, input_shape=(1, 3, 224, 224)):
     """Analyze a model from timm and return FLOPs, MACs, and parameters."""
     try:
         # Create model
-        model = timm.create_model(model_name, pretrained=False)
+        model = timm.create_model(model_name, pretrained=False,num_classes=0)
         model.eval()
         
         # Create dummy input

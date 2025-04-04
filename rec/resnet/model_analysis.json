@@ -1,42 +1,554 @@
 [
   {
+    "model_name": "resnet10t",
+    "total_params": 4922488,
+    "total_flops": 2213189120,
+    "total_macs": 1106594560,
+    "gflops": 2.21318912,
+    "gmacs": 1.10659456
+  },
+  {
+    "model_name": "resnet14t",
+    "total_params": 8032632,
+    "total_flops": 3396818944,
+    "total_macs": 1698409472,
+    "gflops": 3.396818944,
+    "gmacs": 1.698409472
+  },
+  {
     "model_name": "resnet18",
-    "total_params": 11689512,
-    "total_flops": 3648067584,
-    "total_macs": 1824033792,
-    "gflops": 3.648067584,
-    "gmacs": 1.824033792
+    "total_params": 11176512,
+    "total_flops": 3647043584,
+    "total_macs": 1823521792,
+    "gflops": 3.647043584,
+    "gmacs": 1.823521792
+  },
+  {
+    "model_name": "resnet18d",
+    "total_params": 11195744,
+    "total_flops": 4132922880,
+    "total_macs": 2066461440,
+    "gflops": 4.13292288,
+    "gmacs": 2.06646144
+  },
+  {
+    "model_name": "resnet26",
+    "total_params": 13946176,
+    "total_flops": 4739428352,
+    "total_macs": 2369714176,
+    "gflops": 4.739428352,
+    "gmacs": 2.369714176
+  },
+  {
+    "model_name": "resnet26d",
+    "total_params": 13965408,
+    "total_flops": 5225834496,
+    "total_macs": 2612917248,
+    "gflops": 5.225834496,
+    "gmacs": 2.612917248
+  },
+  {
+    "model_name": "resnet26t",
+    "total_params": 13962872,
+    "total_flops": 5161809920,
+    "total_macs": 2580904960,
+    "gflops": 5.16180992,
+    "gmacs": 2.58090496
+  },
+  {
+    "model_name": "resnet32ts",
+    "total_params": 16389512,
+    "total_flops": 7052290048,
+    "total_macs": 3526145024,
+    "gflops": 7.052290048,
+    "gmacs": 3.526145024
+  },
+  {
+    "model_name": "resnet33ts",
+    "total_params": 18355592,
+    "total_flops": 7244940288,
+    "total_macs": 3622470144,
+    "gflops": 7.244940288,
+    "gmacs": 3.622470144
   },
   {
     "model_name": "resnet34",
-    "total_params": 21797672,
-    "total_flops": 7357478912,
-    "total_macs": 3678739456,
-    "gflops": 7.357478912,
-    "gmacs": 3.678739456
+    "total_params": 21284672,
+    "total_flops": 7356454912,
+    "total_macs": 3678227456,
+    "gflops": 7.356454912,
+    "gmacs": 3.678227456
+  },
+  {
+    "model_name": "resnet34d",
+    "total_params": 21303904,
+    "total_flops": 7842334208,
+    "total_macs": 3921167104,
+    "gflops": 7.842334208,
+    "gmacs": 3.921167104
   },
   {
     "model_name": "resnet50",
-    "total_params": 25557032,
-    "total_flops": 8267485184,
-    "total_macs": 4133742592,
-    "gflops": 8.267485184,
-    "gmacs": 4.133742592
+    "total_params": 23508032,
+    "total_flops": 8263389184,
+    "total_macs": 4131694592,
+    "gflops": 8.263389184,
+    "gmacs": 4.131694592
+  },
+  {
+    "model_name": "resnet50_clip",
+    "total_params": 40259424,
+    "total_flops": 12413629440,
+    "total_macs": 6206814720,
+    "gflops": 12.41362944,
+    "gmacs": 6.20681472
+  },
+  {
+    "model_name": "resnet50_clip_gap",
+    "total_params": 23474016,
+    "total_flops": 10736112640,
+    "total_macs": 5368056320,
+    "gflops": 10.73611264,
+    "gmacs": 5.36805632
+  },
+  {
+    "model_name": "resnet50_gn",
+    "total_params": 23454912,
+    "total_flops": 8174477312,
+    "total_macs": 4087238656,
+    "gflops": 8.174477312,
+    "gmacs": 4.087238656
+  },
+  {
+    "model_name": "resnet50_mlp",
+    "total_params": 25576288,
+    "total_flops": 10740323328,
+    "total_macs": 5370161664,
+    "gflops": 10.740323328,
+    "gmacs": 5.370161664
+  },
+  {
+    "model_name": "resnet50c",
+    "total_params": 23527264,
+    "total_flops": 8749092864,
+    "total_macs": 4374546432,
+    "gflops": 8.749092864,
+    "gmacs": 4.374546432
+  },
+  {
+    "model_name": "resnet50d",
+    "total_params": 23527264,
+    "total_flops": 8749795328,
+    "total_macs": 4374897664,
+    "gflops": 8.749795328,
+    "gmacs": 4.374897664
+  },
+  {
+    "model_name": "resnet50s",
+    "total_params": 23631808,
+    "total_flops": 10992963584,
+    "total_macs": 5496481792,
+    "gflops": 10.992963584,
+    "gmacs": 5.496481792
+  },
+  {
+    "model_name": "resnet50t",
+    "total_params": 23524728,
+    "total_flops": 8685770752,
+    "total_macs": 4342885376,
+    "gflops": 8.685770752,
+    "gmacs": 4.342885376
+  },
+  {
+    "model_name": "resnet50x4_clip",
+    "total_params": 91734520,
+    "total_flops": 26213003520,
+    "total_macs": 13106501760,
+    "gflops": 26.21300352,
+    "gmacs": 13.10650176
+  },
+  {
+    "model_name": "resnet50x4_clip_gap",
+    "total_params": 65509880,
+    "total_flops": 23591819520,
+    "total_macs": 11795909760,
+    "gflops": 23.59181952,
+    "gmacs": 11.79590976
+  },
+  {
+    "model_name": "resnet50x16_clip",
+    "total_params": 173769744,
+    "total_flops": 51496840704,
+    "total_macs": 25748420352,
+    "gflops": 51.496840704,
+    "gmacs": 25.748420352
+  },
+  {
+    "model_name": "resnet50x16_clip_gap",
+    "total_params": 136008720,
+    "total_flops": 47722274304,
+    "total_macs": 23861137152,
+    "gflops": 47.722274304,
+    "gmacs": 23.861137152
+  },
+  {
+    "model_name": "resnet50x64_clip",
+    "total_params": 431748800,
+    "total_flops": 133460781056,
+    "total_macs": 66730390528,
+    "gflops": 133.460781056,
+    "gmacs": 66.730390528
+  },
+  {
+    "model_name": "resnet50x64_clip_gap",
+    "total_params": 364623552,
+    "total_flops": 126750304256,
+    "total_macs": 63375152128,
+    "gflops": 126.750304256,
+    "gmacs": 63.375152128
+  },
+  {
+    "model_name": "resnet51q",
+    "total_params": 33563568,
+    "total_flops": 9717690368,
+    "total_macs": 4858845184,
+    "gflops": 9.717690368,
+    "gmacs": 4.858845184
+  },
+  {
+    "model_name": "resnet61q",
+    "total_params": 34696112,
+    "total_flops": 11884290048,
+    "total_macs": 5942145024,
+    "gflops": 11.884290048,
+    "gmacs": 5.942145024
   },
   {
     "model_name": "resnet101",
-    "total_params": 44549160,
-    "total_flops": 15732871168,
-    "total_macs": 7866435584,
-    "gflops": 15.732871168,
-    "gmacs": 7.866435584
+    "total_params": 42500160,
+    "total_flops": 15728775168,
+    "total_macs": 7864387584,
+    "gflops": 15.728775168,
+    "gmacs": 7.864387584
+  },
+  {
+    "model_name": "resnet101_clip",
+    "total_params": 59199328,
+    "total_flops": 19838071808,
+    "total_macs": 9919035904,
+    "gflops": 19.838071808,
+    "gmacs": 9.919035904
+  },
+  {
+    "model_name": "resnet101_clip_gap",
+    "total_params": 42413920,
+    "total_flops": 18160555008,
+    "total_macs": 9080277504,
+    "gflops": 18.160555008,
+    "gmacs": 9.080277504
+  },
+  {
+    "model_name": "resnet101c",
+    "total_params": 42519392,
+    "total_flops": 16214478848,
+    "total_macs": 8107239424,
+    "gflops": 16.214478848,
+    "gmacs": 8.107239424
+  },
+  {
+    "model_name": "resnet101d",
+    "total_params": 42519392,
+    "total_flops": 16215181312,
+    "total_macs": 8107590656,
+    "gflops": 16.215181312,
+    "gmacs": 8.107590656
+  },
+  {
+    "model_name": "resnet101s",
+    "total_params": 42623936,
+    "total_flops": 18458349568,
+    "total_macs": 9229174784,
+    "gflops": 18.458349568,
+    "gmacs": 9.229174784
   },
   {
     "model_name": "resnet152",
-    "total_params": 60192808,
-    "total_flops": 23207890944,
-    "total_macs": 11603945472,
-    "gflops": 23.207890944,
-    "gmacs": 11.603945472
+    "total_params": 58143808,
+    "total_flops": 23203794944,
+    "total_macs": 11601897472,
+    "gflops": 23.203794944,
+    "gmacs": 11.601897472
+  },
+  {
+    "model_name": "resnet152c",
+    "total_params": 58163040,
+    "total_flops": 23689498624,
+    "total_macs": 11844749312,
+    "gflops": 23.689498624,
+    "gmacs": 11.844749312
+  },
+  {
+    "model_name": "resnet152d",
+    "total_params": 58163040,
+    "total_flops": 23690201088,
+    "total_macs": 11845100544,
+    "gflops": 23.690201088,
+    "gmacs": 11.845100544
+  },
+  {
+    "model_name": "resnet152s",
+    "total_params": 58267584,
+    "total_flops": 25933369344,
+    "total_macs": 12966684672,
+    "gflops": 25.933369344,
+    "gmacs": 12.966684672
+  },
+  {
+    "model_name": "resnet200",
+    "total_params": 62624832,
+    "total_flops": 30268575744,
+    "total_macs": 15134287872,
+    "gflops": 30.268575744,
+    "gmacs": 15.134287872
+  },
+  {
+    "model_name": "resnet200d",
+    "total_params": 62644064,
+    "total_flops": 30754981888,
+    "total_macs": 15377490944,
+    "gflops": 30.754981888,
+    "gmacs": 15.377490944
+  },
+  {
+    "model_name": "resnetaa34d",
+    "total_params": 21303904,
+    "total_flops": 8887751168,
+    "total_macs": 4443875584,
+    "gflops": 8.887751168,
+    "gmacs": 4.443875584
+  },
+  {
+    "model_name": "resnetaa50",
+    "total_params": 23508032,
+    "total_flops": 10349255680,
+    "total_macs": 5174627840,
+    "gflops": 10.34925568,
+    "gmacs": 5.17462784
+  },
+  {
+    "model_name": "resnetaa50d",
+    "total_params": 23527264,
+    "total_flops": 10835661824,
+    "total_macs": 5417830912,
+    "gflops": 10.835661824,
+    "gmacs": 5.417830912
+  },
+  {
+    "model_name": "resnetaa101d",
+    "total_params": 42519392,
+    "total_flops": 18301047808,
+    "total_macs": 9150523904,
+    "gflops": 18.301047808,
+    "gmacs": 9.150523904
+  },
+  {
+    "model_name": "resnetblur18",
+    "total_params": 11176512,
+    "total_flops": 4691707904,
+    "total_macs": 2345853952,
+    "gflops": 4.691707904,
+    "gmacs": 2.345853952
+  },
+  {
+    "model_name": "resnetblur50",
+    "total_params": 23508032,
+    "total_flops": 10348503040,
+    "total_macs": 5174251520,
+    "gflops": 10.34850304,
+    "gmacs": 5.17425152
+  },
+  {
+    "model_name": "resnetblur50d",
+    "total_params": 23527264,
+    "total_flops": 10834909184,
+    "total_macs": 5417454592,
+    "gflops": 10.834909184,
+    "gmacs": 5.417454592
+  },
+  {
+    "model_name": "resnetblur101d",
+    "total_params": 42519392,
+    "total_flops": 18300295168,
+    "total_macs": 9150147584,
+    "gflops": 18.300295168,
+    "gmacs": 9.150147584
+  },
+  {
+    "model_name": "resnetrs50",
+    "total_params": 33642912,
+    "total_flops": 9002731520,
+    "total_macs": 4501365760,
+    "gflops": 9.00273152,
+    "gmacs": 4.50136576
+  },
+  {
+    "model_name": "resnetrs101",
+    "total_params": 61569696,
+    "total_flops": 16485943296,
+    "total_macs": 8242971648,
+    "gflops": 16.485943296,
+    "gmacs": 8.242971648
+  },
+  {
+    "model_name": "resnetrs152",
+    "total_params": 84572576,
+    "total_flops": 23975643136,
+    "total_macs": 11987821568,
+    "gflops": 23.975643136,
+    "gmacs": 11.987821568
+  },
+  {
+    "model_name": "resnetrs200",
+    "total_params": 91160992,
+    "total_flops": 31044618240,
+    "total_macs": 15522309120,
+    "gflops": 31.04461824,
+    "gmacs": 15.52230912
+  },
+  {
+    "model_name": "resnetrs270",
+    "total_params": 127812448,
+    "total_flops": 41625446400,
+    "total_macs": 20812723200,
+    "gflops": 41.6254464,
+    "gmacs": 20.8127232
+  },
+  {
+    "model_name": "resnetrs350",
+    "total_params": 161907168,
+    "total_flops": 53081712640,
+    "total_macs": 26540856320,
+    "gflops": 53.08171264,
+    "gmacs": 26.54085632
+  },
+  {
+    "model_name": "resnetrs420",
+    "total_params": 189842656,
+    "total_flops": 63219034112,
+    "total_macs": 31609517056,
+    "gflops": 63.219034112,
+    "gmacs": 31.609517056
+  },
+  {
+    "model_name": "resnetv2_18",
+    "total_params": 11166912,
+    "total_flops": 3627173888,
+    "total_macs": 1813586944,
+    "gflops": 3.627173888,
+    "gmacs": 1.813586944
+  },
+  {
+    "model_name": "resnetv2_18d",
+    "total_params": 11186016,
+    "total_flops": 4106630656,
+    "total_macs": 2053315328,
+    "gflops": 4.106630656,
+    "gmacs": 2.053315328
+  },
+  {
+    "model_name": "resnetv2_34",
+    "total_params": 21267648,
+    "total_flops": 7326550016,
+    "total_macs": 3663275008,
+    "gflops": 7.326550016,
+    "gmacs": 3.663275008
+  },
+  {
+    "model_name": "resnetv2_34d",
+    "total_params": 21286752,
+    "total_flops": 7806006784,
+    "total_macs": 3903003392,
+    "gflops": 7.806006784,
+    "gmacs": 3.903003392
+  },
+  {
+    "model_name": "resnetv2_50",
+    "total_params": 23454912,
+    "total_flops": 8174477312,
+    "total_macs": 4087238656,
+    "gflops": 8.174477312,
+    "gmacs": 4.087238656
+  },
+  {
+    "model_name": "resnetv2_50d",
+    "total_params": 23474016,
+    "total_flops": 8654460928,
+    "total_macs": 4327230464,
+    "gflops": 8.654460928,
+    "gmacs": 4.327230464
+  },
+  {
+    "model_name": "resnetv2_50d_evos",
+    "total_params": 23474016,
+    "total_flops": 8654460928,
+    "total_macs": 4327230464,
+    "gflops": 8.654460928,
+    "gmacs": 4.327230464
+  },
+  {
+    "model_name": "resnetv2_50d_frn",
+    "total_params": 23474016,
+    "total_flops": 8654460928,
+    "total_macs": 4327230464,
+    "gflops": 8.654460928,
+    "gmacs": 4.327230464
+  },
+  {
+    "model_name": "resnetv2_50d_gn",
+    "total_params": 23474016,
+    "total_flops": 8654460928,
+    "total_macs": 4327230464,
+    "gflops": 8.654460928,
+    "gmacs": 4.327230464
+  },
+  {
+    "model_name": "resnetv2_50t",
+    "total_params": 23471496,
+    "total_flops": 8591239168,
+    "total_macs": 4295619584,
+    "gflops": 8.591239168,
+    "gmacs": 4.295619584
+  },
+  {
+    "model_name": "resnetv2_101",
+    "total_params": 42394816,
+    "total_flops": 15598919680,
+    "total_macs": 7799459840,
+    "gflops": 15.59891968,
+    "gmacs": 7.79945984
+  },
+  {
+    "model_name": "resnetv2_101d",
+    "total_params": 42413920,
+    "total_flops": 16078903296,
+    "total_macs": 8039451648,
+    "gflops": 16.078903296,
+    "gmacs": 8.039451648
+  },
+  {
+    "model_name": "resnetv2_152",
+    "total_params": 57992384,
+    "total_flops": 23023362048,
+    "total_macs": 11511681024,
+    "gflops": 23.023362048,
+    "gmacs": 11.511681024
+  },
+  {
+    "model_name": "resnetv2_152d",
+    "total_params": 58011488,
+    "total_flops": 23503345664,
+    "total_macs": 11751672832,
+    "gflops": 23.503345664,
+    "gmacs": 11.751672832
   }
 ]
