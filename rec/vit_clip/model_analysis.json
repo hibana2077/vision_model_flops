@@ -1,0 +1,122 @@
+[
+  {
+    "model_name": "vit_base_patch16_clip_224",
+    "total_params": 85647360,
+    "total_flops": 33726935040,
+    "total_macs": 16863467520,
+    "gflops": 33.72693504,
+    "gmacs": 16.86346752
+  },
+  {
+    "model_name": "vit_base_patch16_clip_quickgelu_224",
+    "total_params": 85647360,
+    "total_flops": 33726935040,
+    "total_macs": 16863467520,
+    "gflops": 33.72693504,
+    "gmacs": 16.86346752
+  },
+  {
+    "model_name": "vit_base_patch32_clip_224",
+    "total_params": 87416832,
+    "total_flops": 8732663808,
+    "total_macs": 4366331904,
+    "gflops": 8.732663808,
+    "gmacs": 4.366331904
+  },
+  {
+    "model_name": "vit_base_patch32_clip_quickgelu_224",
+    "total_params": 87416832,
+    "total_flops": 8732663808,
+    "total_macs": 4366331904,
+    "gflops": 8.732663808,
+    "gmacs": 4.366331904
+  },
+  {
+    "model_name": "vit_betwixt_patch32_clip_224",
+    "total_params": 61050880,
+    "total_flops": 6097571840,
+    "total_macs": 3048785920,
+    "gflops": 6.09757184,
+    "gmacs": 3.04878592
+  },
+  {
+    "model_name": "vit_giant_patch14_clip_224",
+    "total_params": 1010840576,
+    "total_flops": 519418025984,
+    "total_macs": 259709012992,
+    "gflops": 519.418025984,
+    "gmacs": 259.709012992
+  },
+  {
+    "model_name": "vit_gigantic_patch14_clip_224",
+    "total_params": 1842348032,
+    "total_flops": 946725185536,
+    "total_macs": 473362592768,
+    "gflops": 946.725185536,
+    "gmacs": 473.362592768
+  },
+  {
+    "model_name": "vit_gigantic_patch14_clip_quickgelu_224",
+    "total_params": 1842348032,
+    "total_flops": 946725185536,
+    "total_macs": 473362592768,
+    "gflops": 946.725185536,
+    "gmacs": 473.362592768
+  },
+  {
+    "model_name": "vit_huge_patch14_clip_224",
+    "total_params": 630435840,
+    "total_flops": 323939880960,
+    "total_macs": 161969940480,
+    "gflops": 323.93988096,
+    "gmacs": 161.96994048
+  },
+  {
+    "model_name": "vit_huge_patch14_clip_quickgelu_224",
+    "total_params": 630435840,
+    "total_flops": 323939880960,
+    "total_macs": 161969940480,
+    "gflops": 323.93988096,
+    "gmacs": 161.96994048
+  },
+  {
+    "model_name": "vit_large_patch14_clip_224",
+    "total_params": 302915584,
+    "total_flops": 155636350976,
+    "total_macs": 77818175488,
+    "gflops": 155.636350976,
+    "gmacs": 77.818175488
+  },
+  {
+    "model_name": "vit_large_patch14_clip_quickgelu_224",
+    "total_params": 302915584,
+    "total_flops": 155636350976,
+    "total_macs": 77818175488,
+    "gflops": 155.636350976,
+    "gmacs": 77.818175488
+  },
+  {
+    "model_name": "vit_medium_patch16_clip_224",
+    "total_params": 38223872,
+    "total_flops": 15048122368,
+    "total_macs": 7524061184,
+    "gflops": 15.048122368,
+    "gmacs": 7.524061184
+  },
+  {
+    "model_name": "vit_medium_patch32_clip_224",
+    "total_params": 39403520,
+    "total_flops": 3934339072,
+    "total_macs": 1967169536,
+    "gflops": 3.934339072,
+    "gmacs": 1.967169536
+  },
+  {
+    "model_name": "vit_xsmall_patch16_clip_224",
+    "total_params": 8095232,
+    "total_flops": 3184488448,
+    "total_macs": 1592244224,
+    "gflops": 3.184488448,
+    "gmacs": 1.592244224
+  }
+]

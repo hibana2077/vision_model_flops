@@ -1,0 +1,66 @@
+[
+  {
+    "model_name": "aimv2_1b_patch14_224",
+    "total_params": 1234331648,
+    "total_flops": 631976755200,
+    "total_macs": 315988377600,
+    "gflops": 631.9767552,
+    "gmacs": 315.9883776
+  },
+  {
+    "model_name": "aimv2_1b_patch14_336",
+    "error": "Input height (224) doesn't match model (336)."
+  },
+  {
+    "model_name": "aimv2_1b_patch14_448",
+    "error": "Input height (224) doesn't match model (448)."
+  },
+  {
+    "model_name": "aimv2_3b_patch14_224",
+    "total_params": 2719718400,
+    "total_flops": 1392494247936,
+    "total_macs": 696247123968,
+    "gflops": 1392.494247936,
+    "gmacs": 696.247123968
+  },
+  {
+    "model_name": "aimv2_3b_patch14_336",
+    "error": "Input height (224) doesn't match model (336)."
+  },
+  {
+    "model_name": "aimv2_3b_patch14_448",
+    "error": "Input height (224) doesn't match model (448)."
+  },
+  {
+    "model_name": "aimv2_huge_patch14_224",
+    "total_params": 680381952,
+    "total_flops": 348354772992,
+    "total_macs": 174177386496,
+    "gflops": 348.354772992,
+    "gmacs": 174.177386496
+  },
+  {
+    "model_name": "aimv2_huge_patch14_336",
+    "error": "Input height (224) doesn't match model (336)."
+  },
+  {
+    "model_name": "aimv2_huge_patch14_448",
+    "error": "Input height (224) doesn't match model (448)."
+  },
+  {
+    "model_name": "aimv2_large_patch14_224",
+    "total_params": 308884480,
+    "total_flops": 158148329472,
+    "total_macs": 79074164736,
+    "gflops": 158.148329472,
+    "gmacs": 79.074164736
+  },
+  {
+    "model_name": "aimv2_large_patch14_336",
+    "error": "Input height (224) doesn't match model (336)."
+  },
+  {
+    "model_name": "aimv2_large_patch14_448",
+    "error": "Input height (224) doesn't match model (448)."
+  }
+]

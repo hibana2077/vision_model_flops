@@ -1,0 +1,18 @@
+[
+  {
+    "model_name": "vit_so400m_patch14_siglip_224",
+    "total_params": 427384640,
+    "total_flops": 212328760320,
+    "total_macs": 106164380160,
+    "gflops": 212.32876032,
+    "gmacs": 106.16438016
+  },
+  {
+    "model_name": "vit_so400m_patch14_siglip_gap_224",
+    "total_params": 412147440,
+    "total_flops": 210944655360,
+    "total_macs": 105472327680,
+    "gflops": 210.94465536,
+    "gmacs": 105.47232768
+  }
+]

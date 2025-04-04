@@ -1,0 +1,18 @@
+[
+  {
+    "model_name": "tnt_b_patch16_224",
+    "total_params": 64638240,
+    "total_flops": 26871685120,
+    "total_macs": 13435842560,
+    "gflops": 26.87168512,
+    "gmacs": 13.43584256
+  },
+  {
+    "model_name": "tnt_s_patch16_224",
+    "total_params": 23293920,
+    "total_flops": 9697861632,
+    "total_macs": 4848930816,
+    "gflops": 9.697861632,
+    "gmacs": 4.848930816
+  }
+]

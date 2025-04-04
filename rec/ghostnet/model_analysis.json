@@ -1,0 +1,50 @@
+[
+  {
+    "model_name": "ghostnet_050",
+    "total_params": 1305332,
+    "total_flops": 96108912,
+    "total_macs": 48054456,
+    "gflops": 0.096108912,
+    "gmacs": 0.048054456
+  },
+  {
+    "model_name": "ghostnet_100",
+    "total_params": 3899588,
+    "total_flops": 307766240,
+    "total_macs": 153883120,
+    "gflops": 0.30776624,
+    "gmacs": 0.15388312
+  },
+  {
+    "model_name": "ghostnet_130",
+    "total_params": 6075324,
+    "total_flops": 487782704,
+    "total_macs": 243891352,
+    "gflops": 0.487782704,
+    "gmacs": 0.243891352
+  },
+  {
+    "model_name": "ghostnetv2_100",
+    "total_params": 4873988,
+    "total_flops": 367607168,
+    "total_macs": 183803584,
+    "gflops": 0.367607168,
+    "gmacs": 0.183803584
+  },
+  {
+    "model_name": "ghostnetv2_130",
+    "total_params": 7676908,
+    "total_flops": 582819040,
+    "total_macs": 291409520,
+    "gflops": 0.58281904,
+    "gmacs": 0.29140952
+  },
+  {
+    "model_name": "ghostnetv2_160",
+    "total_params": 11108626,
+    "total_flops": 851968496,
+    "total_macs": 425984248,
+    "gflops": 0.851968496,
+    "gmacs": 0.425984248
+  }
+]

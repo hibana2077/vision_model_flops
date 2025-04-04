@@ -1,0 +1,34 @@
+[
+  {
+    "model_name": "vitamin_base_224",
+    "total_params": 86956928,
+    "total_flops": 43627636736,
+    "total_macs": 21813818368,
+    "gflops": 43.627636736,
+    "gmacs": 21.813818368
+  },
+  {
+    "model_name": "vitamin_large2_224",
+    "total_params": 332263584,
+    "total_flops": 145069310976,
+    "total_macs": 72534655488,
+    "gflops": 145.069310976,
+    "gmacs": 72.534655488
+  },
+  {
+    "model_name": "vitamin_large_224",
+    "total_params": 332263584,
+    "total_flops": 145069310976,
+    "total_macs": 72534655488,
+    "gflops": 145.069310976,
+    "gmacs": 72.534655488
+  },
+  {
+    "model_name": "vitamin_small_224",
+    "total_params": 21790144,
+    "total_flops": 10966168576,
+    "total_macs": 5483084288,
+    "gflops": 10.966168576,
+    "gmacs": 5.483084288
+  }
+]
