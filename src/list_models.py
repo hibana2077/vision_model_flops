@@ -1,5 +1,5 @@
 import timm
 
 print(timm.list_models(
-    filter="tinynet*",
+    filter="edgenext*",
     pretrained=False))

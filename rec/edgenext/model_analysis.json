@@ -1,42 +1,42 @@
 [
   {
     "model_name": "edgenext_base",
-    "total_params": 18502788,
-    "total_flops": 5851358156,
-    "total_macs": 2925679078,
-    "gflops": 5.851358156,
-    "gmacs": 2.925679078
+    "total_params": 17917788,
+    "total_flops": 5850190156,
+    "total_macs": 2925095078,
+    "gflops": 5.850190156,
+    "gmacs": 2.925095078
   },
   {
     "model_name": "edgenext_small",
-    "total_params": 5582152,
-    "total_flops": 1919809640,
-    "total_macs": 959904820,
-    "gflops": 1.91980964,
-    "gmacs": 0.95990482
+    "total_params": 5277152,
+    "total_flops": 1919201640,
+    "total_macs": 959600820,
+    "gflops": 1.91920164,
+    "gmacs": 0.95960082
   },
   {
     "model_name": "edgenext_small_rw",
-    "total_params": 7821640,
-    "total_flops": 2400175680,
-    "total_macs": 1200087840,
-    "gflops": 2.40017568,
-    "gmacs": 1.20008784
+    "total_params": 7436640,
+    "total_flops": 2399407680,
+    "total_macs": 1199703840,
+    "gflops": 2.39940768,
+    "gmacs": 1.19970384
   },
   {
     "model_name": "edgenext_x_small",
-    "total_params": 2333832,
-    "total_flops": 815465280,
-    "total_macs": 407732640,
-    "gflops": 0.81546528,
-    "gmacs": 0.40773264
+    "total_params": 2140832,
+    "total_flops": 815081280,
+    "total_macs": 407540640,
+    "gflops": 0.81508128,
+    "gmacs": 0.40754064
   },
   {
     "model_name": "edgenext_xx_small",
-    "total_params": 1325188,
-    "total_flops": 393576428,
-    "total_macs": 196788214,
-    "gflops": 0.393576428,
-    "gmacs": 0.196788214
+    "total_params": 1156188,
+    "total_flops": 393240428,
+    "total_macs": 196620214,
+    "gflops": 0.393240428,
+    "gmacs": 0.196620214
   }
 ]
