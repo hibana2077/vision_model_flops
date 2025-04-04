@@ -1,0 +1,74 @@
+[
+  {
+    "model_name": "nfnet_f0",
+    "total_params": 21846144,
+    "total_flops": 44706816,
+    "total_macs": 22353408,
+    "gflops": 0.044706816,
+    "gmacs": 0.022353408
+  },
+  {
+    "model_name": "nfnet_f1",
+    "total_params": 43692288,
+    "total_flops": 88353792,
+    "total_macs": 44176896,
+    "gflops": 0.088353792,
+    "gmacs": 0.044176896
+  },
+  {
+    "model_name": "nfnet_f2",
+    "total_params": 65538432,
+    "total_flops": 132000768,
+    "total_macs": 66000384,
+    "gflops": 0.132000768,
+    "gmacs": 0.066000384
+  },
+  {
+    "model_name": "nfnet_f3",
+    "total_params": 87384576,
+    "total_flops": 175647744,
+    "total_macs": 87823872,
+    "gflops": 0.175647744,
+    "gmacs": 0.087823872
+  },
+  {
+    "model_name": "nfnet_f4",
+    "total_params": 109230720,
+    "total_flops": 219294720,
+    "total_macs": 109647360,
+    "gflops": 0.21929472,
+    "gmacs": 0.10964736
+  },
+  {
+    "model_name": "nfnet_f5",
+    "total_params": 131076864,
+    "total_flops": 262941696,
+    "total_macs": 131470848,
+    "gflops": 0.262941696,
+    "gmacs": 0.131470848
+  },
+  {
+    "model_name": "nfnet_f6",
+    "total_params": 152923008,
+    "total_flops": 306588672,
+    "total_macs": 153294336,
+    "gflops": 0.306588672,
+    "gmacs": 0.153294336
+  },
+  {
+    "model_name": "nfnet_f7",
+    "total_params": 174769152,
+    "total_flops": 350235648,
+    "total_macs": 175117824,
+    "gflops": 0.350235648,
+    "gmacs": 0.175117824
+  },
+  {
+    "model_name": "nfnet_l0",
+    "total_params": 10930624,
+    "total_flops": 22806528,
+    "total_macs": 11403264,
+    "gflops": 0.022806528,
+    "gmacs": 0.011403264
+  }
+]
