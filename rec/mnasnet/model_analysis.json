@@ -1,0 +1,42 @@
+[
+  {
+    "model_name": "mnasnet_050",
+    "total_params": 916888,
+    "total_flops": 206479936,
+    "total_macs": 103239968,
+    "gflops": 0.206479936,
+    "gmacs": 0.103239968
+  },
+  {
+    "model_name": "mnasnet_075",
+    "total_params": 1859400,
+    "total_flops": 428554208,
+    "total_macs": 214277104,
+    "gflops": 0.428554208,
+    "gmacs": 0.214277104
+  },
+  {
+    "model_name": "mnasnet_100",
+    "total_params": 3064392,
+    "total_flops": 626399744,
+    "total_macs": 313199872,
+    "gflops": 0.626399744,
+    "gmacs": 0.313199872
+  },
+  {
+    "model_name": "mnasnet_140",
+    "total_params": 5782280,
+    "total_flops": 1175166816,
+    "total_macs": 587583408,
+    "gflops": 1.175166816,
+    "gmacs": 0.587583408
+  },
+  {
+    "model_name": "mnasnet_small",
+    "total_params": 732336,
+    "total_flops": 134246368,
+    "total_macs": 67123184,
+    "gflops": 0.134246368,
+    "gmacs": 0.067123184
+  }
+]

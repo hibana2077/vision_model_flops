@@ -1,0 +1,42 @@
+[
+  {
+    "model_name": "lcnet_035",
+    "total_params": 359530,
+    "total_flops": 52173264,
+    "total_macs": 26086632,
+    "gflops": 0.052173264,
+    "gmacs": 0.026086632
+  },
+  {
+    "model_name": "lcnet_050",
+    "total_params": 594384,
+    "total_flops": 86927616,
+    "total_macs": 43463808,
+    "gflops": 0.086927616,
+    "gmacs": 0.043463808
+  },
+  {
+    "model_name": "lcnet_075",
+    "total_params": 1069064,
+    "total_flops": 187051392,
+    "total_macs": 93525696,
+    "gflops": 0.187051392,
+    "gmacs": 0.093525696
+  },
+  {
+    "model_name": "lcnet_100",
+    "total_params": 1661856,
+    "total_flops": 308892160,
+    "total_macs": 154446080,
+    "gflops": 0.30889216,
+    "gmacs": 0.15444608
+  },
+  {
+    "model_name": "lcnet_150",
+    "total_params": 3203696,
+    "total_flops": 665893632,
+    "total_macs": 332946816,
+    "gflops": 0.665893632,
+    "gmacs": 0.332946816
+  }
+]

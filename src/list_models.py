@@ -1,5 +1,5 @@
 import timm
 
 print(timm.list_models(
-    filter="mobilenetv*",
+    filter="mnasnet*",
     pretrained=False))
