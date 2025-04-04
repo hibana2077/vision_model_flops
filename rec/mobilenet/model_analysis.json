@@ -1,0 +1,234 @@
+[
+  {
+    "model_name": "mobilenetv1_100",
+    "total_params": 3185088,
+    "total_flops": 1135535104,
+    "total_macs": 567767552,
+    "gflops": 1.135535104,
+    "gmacs": 0.567767552
+  },
+  {
+    "model_name": "mobilenetv1_100h",
+    "total_params": 4233664,
+    "total_flops": 1238295552,
+    "total_macs": 619147776,
+    "gflops": 1.238295552,
+    "gmacs": 0.619147776
+  },
+  {
+    "model_name": "mobilenetv1_125",
+    "total_params": 4962480,
+    "total_flops": 1756601600,
+    "total_macs": 878300800,
+    "gflops": 1.7566016,
+    "gmacs": 0.8783008
+  },
+  {
+    "model_name": "mobilenetv2_035",
+    "total_params": 382048,
+    "total_flops": 116139616,
+    "total_macs": 58069808,
+    "gflops": 0.116139616,
+    "gmacs": 0.058069808
+  },
+  {
+    "model_name": "mobilenetv2_050",
+    "total_params": 669136,
+    "total_flops": 191831680,
+    "total_macs": 95915840,
+    "gflops": 0.19183168,
+    "gmacs": 0.09591584
+  },
+  {
+    "model_name": "mobilenetv2_075",
+    "total_params": 1328784,
+    "total_flops": 415707584,
+    "total_macs": 207853792,
+    "gflops": 0.415707584,
+    "gmacs": 0.207853792
+  },
+  {
+    "model_name": "mobilenetv2_100",
+    "total_params": 2189760,
+    "total_flops": 599116544,
+    "total_macs": 299558272,
+    "gflops": 0.599116544,
+    "gmacs": 0.299558272
+  },
+  {
+    "model_name": "mobilenetv2_110d",
+    "total_params": 3188032,
+    "total_flops": 858600160,
+    "total_macs": 429300080,
+    "gflops": 0.85860016,
+    "gmacs": 0.42930008
+  },
+  {
+    "model_name": "mobilenetv2_120d",
+    "total_params": 4486368,
+    "total_flops": 1335283136,
+    "total_macs": 667641568,
+    "gflops": 1.335283136,
+    "gmacs": 0.667641568
+  },
+  {
+    "model_name": "mobilenetv2_140",
+    "total_params": 4267840,
+    "total_flops": 1160986848,
+    "total_macs": 580493424,
+    "gflops": 1.160986848,
+    "gmacs": 0.580493424
+  },
+  {
+    "model_name": "mobilenetv3_large_075",
+    "total_params": 2693440,
+    "total_flops": 306633248,
+    "total_macs": 153316624,
+    "gflops": 0.306633248,
+    "gmacs": 0.153316624
+  },
+  {
+    "model_name": "mobilenetv3_large_100",
+    "total_params": 4177632,
+    "total_flops": 430715520,
+    "total_macs": 215357760,
+    "gflops": 0.43071552,
+    "gmacs": 0.21535776
+  },
+  {
+    "model_name": "mobilenetv3_large_150d",
+    "total_params": 13287848,
+    "total_flops": 1547980320,
+    "total_macs": 773990160,
+    "gflops": 1.54798032,
+    "gmacs": 0.77399016
+  },
+  {
+    "model_name": "mobilenetv3_rw",
+    "total_params": 4174518,
+    "total_flops": 430711872,
+    "total_macs": 215355936,
+    "gflops": 0.430711872,
+    "gmacs": 0.215355936
+  },
+  {
+    "model_name": "mobilenetv3_small_050",
+    "total_params": 561728,
+    "total_flops": 46358176,
+    "total_macs": 23179088,
+    "gflops": 0.046358176,
+    "gmacs": 0.023179088
+  },
+  {
+    "model_name": "mobilenetv3_small_075",
+    "total_params": 1007192,
+    "total_flops": 84793888,
+    "total_macs": 42396944,
+    "gflops": 0.084793888,
+    "gmacs": 0.042396944
+  },
+  {
+    "model_name": "mobilenetv3_small_100",
+    "total_params": 1505744,
+    "total_flops": 111030400,
+    "total_macs": 55515200,
+    "gflops": 0.1110304,
+    "gmacs": 0.0555152
+  },
+  {
+    "model_name": "mobilenetv4_conv_aa_large",
+    "total_params": 31160312,
+    "total_flops": 4771029760,
+    "total_macs": 2385514880,
+    "gflops": 4.77102976,
+    "gmacs": 2.38551488
+  },
+  {
+    "model_name": "mobilenetv4_conv_aa_medium",
+    "total_params": 8366608,
+    "total_flops": 2391602304,
+    "total_macs": 1195801152,
+    "gflops": 2.391602304,
+    "gmacs": 1.195801152
+  },
+  {
+    "model_name": "mobilenetv4_conv_blur_medium",
+    "total_params": 8366608,
+    "total_flops": 2390216192,
+    "total_macs": 1195108096,
+    "gflops": 2.390216192,
+    "gmacs": 1.195108096
+  },
+  {
+    "model_name": "mobilenetv4_conv_large",
+    "total_params": 31160312,
+    "total_flops": 4340218624,
+    "total_macs": 2170109312,
+    "gflops": 4.340218624,
+    "gmacs": 2.170109312
+  },
+  {
+    "model_name": "mobilenetv4_conv_medium",
+    "total_params": 8366608,
+    "total_flops": 1652835968,
+    "total_macs": 826417984,
+    "gflops": 1.652835968,
+    "gmacs": 0.826417984
+  },
+  {
+    "model_name": "mobilenetv4_conv_small",
+    "total_params": 2467936,
+    "total_flops": 369547136,
+    "total_macs": 184773568,
+    "gflops": 0.369547136,
+    "gmacs": 0.184773568
+  },
+  {
+    "model_name": "mobilenetv4_conv_small_035",
+    "total_params": 613696,
+    "total_flops": 92919680,
+    "total_macs": 46459840,
+    "gflops": 0.09291968,
+    "gmacs": 0.04645984
+  },
+  {
+    "model_name": "mobilenetv4_conv_small_050",
+    "total_params": 944096,
+    "total_flops": 126970816,
+    "total_macs": 63485408,
+    "gflops": 0.126970816,
+    "gmacs": 0.063485408
+  },
+  {
+    "model_name": "mobilenetv4_hybrid_large",
+    "total_params": 36310008,
+    "total_flops": 5018598144,
+    "total_macs": 2509299072,
+    "gflops": 5.018598144,
+    "gmacs": 2.509299072
+  },
+  {
+    "model_name": "mobilenetv4_hybrid_large_075",
+    "total_params": 21342992,
+    "total_flops": 3014218816,
+    "total_macs": 1507109408,
+    "gflops": 3.014218816,
+    "gmacs": 1.507109408
+  },
+  {
+    "model_name": "mobilenetv4_hybrid_medium",
+    "total_params": 9714192,
+    "total_flops": 1881488000,
+    "total_macs": 940744000,
+    "gflops": 1.881488,
+    "gmacs": 0.940744
+  },
+  {
+    "model_name": "mobilenetv4_hybrid_medium_075",
+    "total_params": 5971968,
+    "total_flops": 1248404640,
+    "total_macs": 624202320,
+    "gflops": 1.24840464,
+    "gmacs": 0.62420232
+  }
+]
