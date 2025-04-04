@@ -1,0 +1,34 @@
+[
+  {
+    "model_name": "coat_lite_medium",
+    "total_params": 44396800,
+    "total_flops": 32202028032,
+    "total_macs": 16101014016,
+    "gflops": 32.202028032,
+    "gmacs": 16.101014016
+  },
+  {
+    "model_name": "coat_lite_mini",
+    "total_params": 10572288,
+    "total_flops": 4402461696,
+    "total_macs": 2201230848,
+    "gflops": 4.402461696,
+    "gmacs": 2.201230848
+  },
+  {
+    "model_name": "coat_lite_small",
+    "total_params": 19477376,
+    "total_flops": 10716945408,
+    "total_macs": 5358472704,
+    "gflops": 10.716945408,
+    "gmacs": 5.358472704
+  },
+  {
+    "model_name": "coat_lite_tiny",
+    "total_params": 5456384,
+    "total_flops": 3594536192,
+    "total_macs": 1797268096,
+    "gflops": 3.594536192,
+    "gmacs": 1.797268096
+  }
+]

@@ -1,5 +1,5 @@
 import timm
 
 print(timm.list_models(
-    filter="eva*224",
+    filter="coat_lite*",
     pretrained=False))
