@@ -1,1 +1,1 @@
-models: ['fbnetc_100', 'fbnetv3_b', 'fbnetv3_d', 'fbnetv3_g']
+models: ['hardcorenas_a', 'hardcorenas_b', 'hardcorenas_c', 'hardcorenas_d', 'hardcorenas_e', 'hardcorenas_f']

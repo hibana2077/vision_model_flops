@@ -1,0 +1,50 @@
+[
+  {
+    "model_name": "hardcorenas_a",
+    "total_params": 3958848,
+    "total_flops": 445991872,
+    "total_macs": 222995936,
+    "gflops": 0.445991872,
+    "gmacs": 0.222995936
+  },
+  {
+    "model_name": "hardcorenas_b",
+    "total_params": 3870424,
+    "total_flops": 501200128,
+    "total_macs": 250600064,
+    "gflops": 0.501200128,
+    "gmacs": 0.250600064
+  },
+  {
+    "model_name": "hardcorenas_c",
+    "total_params": 4212800,
+    "total_flops": 537652800,
+    "total_macs": 268826400,
+    "gflops": 0.5376528,
+    "gmacs": 0.2688264
+  },
+  {
+    "model_name": "hardcorenas_d",
+    "total_params": 6186040,
+    "total_flops": 573111232,
+    "total_macs": 286555616,
+    "gflops": 0.573111232,
+    "gmacs": 0.286555616
+  },
+  {
+    "model_name": "hardcorenas_e",
+    "total_params": 6754216,
+    "total_flops": 674915520,
+    "total_macs": 337457760,
+    "gflops": 0.67491552,
+    "gmacs": 0.33745776
+  },
+  {
+    "model_name": "hardcorenas_f",
+    "total_params": 6881312,
+    "total_flops": 681347392,
+    "total_macs": 340673696,
+    "gflops": 0.681347392,
+    "gmacs": 0.340673696
+  }
+]
