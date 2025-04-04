@@ -1,1 +1,1 @@
-models: ['dla34', 'dla46_c', 'dla46x_c', 'dla60', 'dla60_res2net', 'dla60_res2next', 'dla60x', 'dla60x_c', 'dla102', 'dla102x', 'dla102x2', 'dla169']
+models: ['caformer_b36', 'caformer_m36', 'caformer_s18', 'caformer_s36']

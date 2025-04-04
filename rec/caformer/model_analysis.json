@@ -1,0 +1,34 @@
+[
+  {
+    "model_name": "caformer_b36",
+    "total_params": 93256448,
+    "total_flops": 44871871488,
+    "total_macs": 22435935744,
+    "gflops": 44.871871488,
+    "gmacs": 22.435935744
+  },
+  {
+    "model_name": "caformer_m36",
+    "total_params": 52524096,
+    "total_flops": 25395335424,
+    "total_macs": 12697667712,
+    "gflops": 25.395335424,
+    "gmacs": 12.697667712
+  },
+  {
+    "model_name": "caformer_s18",
+    "total_params": 23217472,
+    "total_flops": 7750436864,
+    "total_macs": 3875218432,
+    "gflops": 7.750436864,
+    "gmacs": 3.875218432
+  },
+  {
+    "model_name": "caformer_s36",
+    "total_params": 36159040,
+    "total_flops": 15037196288,
+    "total_macs": 7518598144,
+    "gflops": 15.037196288,
+    "gmacs": 7.518598144
+  }
+]
