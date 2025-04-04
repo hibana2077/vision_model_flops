@@ -1,0 +1,34 @@
+[
+  {
+    "model_name": "fbnetc_100",
+    "total_params": 3542832,
+    "total_flops": 766150720,
+    "total_macs": 383075360,
+    "gflops": 0.76615072,
+    "gmacs": 0.38307536
+  },
+  {
+    "model_name": "fbnetv3_b",
+    "total_params": 6567064,
+    "total_flops": 811183552,
+    "total_macs": 405591776,
+    "gflops": 0.811183552,
+    "gmacs": 0.405591776
+  },
+  {
+    "model_name": "fbnetv3_d",
+    "total_params": 8264664,
+    "total_flops": 1000118112,
+    "total_macs": 500059056,
+    "gflops": 1.000118112,
+    "gmacs": 0.500059056
+  },
+  {
+    "model_name": "fbnetv3_g",
+    "total_params": 14548024,
+    "total_flops": 2086356288,
+    "total_macs": 1043178144,
+    "gflops": 2.086356288,
+    "gmacs": 1.043178144
+  }
+]

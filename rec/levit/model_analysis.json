@@ -1,0 +1,162 @@
+[
+  {
+    "model_name": "levit_128",
+    "total_params": 8434576,
+    "total_flops": 740846592,
+    "total_macs": 370423296,
+    "gflops": 0.740846592,
+    "gmacs": 0.370423296
+  },
+  {
+    "model_name": "levit_128s",
+    "total_params": 7000208,
+    "total_flops": 569356288,
+    "total_macs": 284678144,
+    "gflops": 0.569356288,
+    "gmacs": 0.284678144
+  },
+  {
+    "model_name": "levit_192",
+    "total_params": 10170200,
+    "total_flops": 1211461376,
+    "total_macs": 605730688,
+    "gflops": 1.211461376,
+    "gmacs": 0.605730688
+  },
+  {
+    "model_name": "levit_256",
+    "total_params": 17858848,
+    "total_flops": 2118833152,
+    "total_macs": 1059416576,
+    "gflops": 2.118833152,
+    "gmacs": 1.059416576
+  },
+  {
+    "model_name": "levit_256d",
+    "total_params": 25688352,
+    "total_flops": 2645292032,
+    "total_macs": 1322646016,
+    "gflops": 2.645292032,
+    "gmacs": 1.322646016
+  },
+  {
+    "model_name": "levit_384",
+    "total_params": 37577392,
+    "total_flops": 4499917824,
+    "total_macs": 2249958912,
+    "gflops": 4.499917824,
+    "gmacs": 2.249958912
+  },
+  {
+    "model_name": "levit_384_s8",
+    "total_params": 37537120,
+    "total_flops": 16251002880,
+    "total_macs": 8125501440,
+    "gflops": 16.25100288,
+    "gmacs": 8.12550144
+  },
+  {
+    "model_name": "levit_512",
+    "total_params": 94134848,
+    "total_flops": 10722043904,
+    "total_macs": 5361021952,
+    "gflops": 10.722043904,
+    "gmacs": 5.361021952
+  },
+  {
+    "model_name": "levit_512_s8",
+    "total_params": 73104000,
+    "total_flops": 34689930240,
+    "total_macs": 17344965120,
+    "gflops": 34.68993024,
+    "gmacs": 17.34496512
+  },
+  {
+    "model_name": "levit_512d",
+    "total_params": 91713600,
+    "total_flops": 11130946560,
+    "total_macs": 5565473280,
+    "gflops": 11.13094656,
+    "gmacs": 5.56547328
+  },
+  {
+    "model_name": "levit_conv_128",
+    "total_params": 8434576,
+    "total_flops": 740867328,
+    "total_macs": 370433664,
+    "gflops": 0.740867328,
+    "gmacs": 0.370433664
+  },
+  {
+    "model_name": "levit_conv_128s",
+    "total_params": 7000208,
+    "total_flops": 569377024,
+    "total_macs": 284688512,
+    "gflops": 0.569377024,
+    "gmacs": 0.284688512
+  },
+  {
+    "model_name": "levit_conv_192",
+    "total_params": 10170200,
+    "total_flops": 1211489408,
+    "total_macs": 605744704,
+    "gflops": 1.211489408,
+    "gmacs": 0.605744704
+  },
+  {
+    "model_name": "levit_conv_256",
+    "total_params": 17858848,
+    "total_flops": 2118870528,
+    "total_macs": 1059435264,
+    "gflops": 2.118870528,
+    "gmacs": 1.059435264
+  },
+  {
+    "model_name": "levit_conv_256d",
+    "total_params": 25688352,
+    "total_flops": 2645329408,
+    "total_macs": 1322664704,
+    "gflops": 2.645329408,
+    "gmacs": 1.322664704
+  },
+  {
+    "model_name": "levit_conv_384",
+    "total_params": 37577392,
+    "total_flops": 4499971840,
+    "total_macs": 2249985920,
+    "gflops": 4.49997184,
+    "gmacs": 2.24998592
+  },
+  {
+    "model_name": "levit_conv_384_s8",
+    "total_params": 37537120,
+    "total_flops": 16251203584,
+    "total_macs": 8125601792,
+    "gflops": 16.251203584,
+    "gmacs": 8.125601792
+  },
+  {
+    "model_name": "levit_conv_512",
+    "total_params": 94134848,
+    "total_flops": 10722118656,
+    "total_macs": 5361059328,
+    "gflops": 10.722118656,
+    "gmacs": 5.361059328
+  },
+  {
+    "model_name": "levit_conv_512_s8",
+    "total_params": 73104000,
+    "total_flops": 34690193664,
+    "total_macs": 17345096832,
+    "gflops": 34.690193664,
+    "gmacs": 17.345096832
+  },
+  {
+    "model_name": "levit_conv_512d",
+    "total_params": 91713600,
+    "total_flops": 11131017216,
+    "total_macs": 5565508608,
+    "gflops": 11.131017216,
+    "gmacs": 5.565508608
+  }
+]

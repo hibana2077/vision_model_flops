@@ -1,1 +1,1 @@
-models: ['mnasnet_050', 'mnasnet_075', 'mnasnet_100', 'mnasnet_140', 'mnasnet_small']
+models: ['fbnetc_100', 'fbnetv3_b', 'fbnetv3_d', 'fbnetv3_g']
