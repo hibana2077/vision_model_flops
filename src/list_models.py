@@ -1,5 +1,5 @@
 import timm
 
 print(timm.list_models(
-    filter="eva02*clip*224",
+    filter="densenet*",
     pretrained=False))

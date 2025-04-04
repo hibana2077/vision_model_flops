@@ -1,0 +1,50 @@
+[
+  {
+    "model_name": "densenet121",
+    "total_params": 6870208,
+    "total_flops": 5666728960,
+    "total_macs": 2833364480,
+    "gflops": 5.66672896,
+    "gmacs": 2.83336448
+  },
+  {
+    "model_name": "densenet161",
+    "total_params": 26252064,
+    "total_flops": 15452174016,
+    "total_macs": 7726087008,
+    "gflops": 15.452174016,
+    "gmacs": 7.726087008
+  },
+  {
+    "model_name": "densenet169",
+    "total_params": 12326080,
+    "total_flops": 6716888832,
+    "total_macs": 3358444416,
+    "gflops": 6.716888832,
+    "gmacs": 3.358444416
+  },
+  {
+    "model_name": "densenet201",
+    "total_params": 17863872,
+    "total_flops": 8579472640,
+    "total_macs": 4289736320,
+    "gflops": 8.57947264,
+    "gmacs": 4.28973632
+  },
+  {
+    "model_name": "densenet264d",
+    "total_params": 68105232,
+    "total_flops": 26933493888,
+    "total_macs": 13466746944,
+    "gflops": 26.933493888,
+    "gmacs": 13.466746944
+  },
+  {
+    "model_name": "densenetblur121d",
+    "total_params": 6889312,
+    "total_flops": 6146010112,
+    "total_macs": 3073005056,
+    "gflops": 6.146010112,
+    "gmacs": 3.073005056
+  }
+]
